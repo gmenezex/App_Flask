@@ -1,4 +1,4 @@
-# 🧪 Flask Study Lab: CRUD & API Integration
+# 🧪 Flask: CRUD & API (Estudos do Framework)
 
 Este repositório foi desenvolvido como um  de estudos para dominar o framework **Flask**. O objetivo principal foi construir uma aplicação que lida com persistência de dados, organização de rotas e consumo de serviços externos.
 
